@@ -25,5 +25,18 @@
   },
   "peerDependencies": {
     "dirac": "0.x.x"
+  },
+  "dependencies": {
+    "grunt": "~0.4.1",
+    "dirac": "~0.0.9",
+    "grunt-contrib-jshint": "~0.7.0",
+    "grunt-contrib-watch": "~0.5.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jrf0110/dirac-table-ref.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jrf0110/dirac-table-ref/issues"
   }
 }
