@@ -1,0 +1,29 @@
+{
+  "name": "dirac-table-ref",
+  "version": "1.0.0",
+  "description": "Automatically use a default column for table references in dirac schemas.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha"
+  },
+  "keywords": [
+    "dirac",
+    "postgres",
+    "table",
+    "references"
+  ],
+  "author": "John Fawcett",
+  "license": "BSD-2-Clause",
+  "devDependencies": {
+    "mocha": "~1.13.0",
+    "grunt-contrib-watch": "~0.5.3",
+    "grunt": "~0.4.1",
+    "grunt-contrib-jshint": "~0.7.0"
+  },
+  "peerDependencies": {
+    "dirac": "0.x.x"
+  }
+}
