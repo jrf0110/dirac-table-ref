@@ -24,7 +24,7 @@
     "grunt-contrib-jshint": "~0.7.0"
   },
   "peerDependencies": {
-    "dirac": "0.x.x"
+    "dirac": "*"
   },
   "dependencies": {
     "grunt": "~0.4.1",
